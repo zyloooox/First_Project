@@ -1,0 +1,2 @@
+Maintenant, créez un nouveau fichier sur le repository distant. Faites le nécessaire pour
+avoir les modifications apportées en local, avec la commande « git pull ».
